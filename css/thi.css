@@ -1,0 +1,57 @@
+* {
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+.header-top{
+    text-align: center;
+    background: #272f54;
+    height: 100px;
+}
+.header-top>img{
+    height: 100px;
+}
+.navbar {
+    background-color: aqua;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 18px;
+    color: red;
+}
+.banner>img{
+    height: 250px;
+    width: 1110px;
+}
+.card{
+    border: 1px solid #ffffff;
+}
+ h2 {
+    margin-top: 15px;
+    font-size: 30px;
+    color: #272f54;
+}
+h4{
+    font-size: 26px;
+    color: #a03f00; 
+}
+.card-text{
+    font-size: 23px;
+    color: #000;
+}
+.my-lg-0{
+padding-left: 14px;
+}
+.my-sm-0{
+    background: green;
+    color: antiquewhite;
+}
+.copyright{
+    background: #272f54;
+    text-align: center;
+    height: 50px;
+    margin-top: 5px;
+}
+.copyright>p{
+    padding-top: 5px;
+    color: aliceblue;
+    font-size: 25px;
+}
